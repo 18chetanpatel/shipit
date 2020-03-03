@@ -2,7 +2,7 @@
 
 Demo - https://loving-leavitt-9cb65b.netlify.com/
 
-> E-Commerce website template
+> E-Commerce website template - Vuetify
 
 ## Build Setup
 
