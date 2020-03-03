@@ -45,10 +45,6 @@ export default new Router({
           path:'/cart',
           component:Cart,
           name:'Cart'
-        },
-        {
-          path:'*',
-          component:Home
         }
       ]
 
