@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/components/Home'
 import Shop from '@/components/Shop'
-import Product from '/components/Product'
+import Product from '@/components/Product'
 import Blog from '@/components/Blog'
 import Post from '@/components/Post'
 import Cart from '@/components/Cart'
@@ -54,5 +54,7 @@ export default new Router({
 
     }
   ],
+    mode:'history'
 },
+
   )
