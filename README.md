@@ -1,4 +1,4 @@
-# shipit
+# shipit - 0.0.1
 
 > E-Commerce website template
 
