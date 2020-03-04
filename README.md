@@ -1,8 +1,10 @@
 # shipit - 0.0.1
 
-Demo - https://loving-leavitt-9cb65b.netlify.com/
+E-Commerce website template - Vuetify
 
-> E-Commerce website template - Vuetify
+##Demo
+
+https://loving-leavitt-9cb65b.netlify.com/
 
 ## Build Setup
 
